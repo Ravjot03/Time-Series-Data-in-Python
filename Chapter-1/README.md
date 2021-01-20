@@ -8,3 +8,8 @@ In this jupyter notebook, i have explained how to create, manipulate and do calc
   * Sequence of dates and times
 ### Part-2 ==> Time Series transformation
   * Indexing and Resampling
+### Part-3 ==> Time Series calculations
+  * Lags
+  * Changes
+  * Returns (Percent-change)
+  * Multi-period Returns
