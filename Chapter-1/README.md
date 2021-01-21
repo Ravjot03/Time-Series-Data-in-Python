@@ -16,3 +16,5 @@ In this jupyter notebook, I have explained how to create, manipulate and do calc
   * Changes
   * Returns (Percent-change)
   * Multi-period Returns
+  * Dataset used:
+      - Google Stock Prices Data  ==> [google.csv](https://github.com/Ravjot03/Time-Series-Data-in-Python/blob/main/Chapter-1/google.csv)
