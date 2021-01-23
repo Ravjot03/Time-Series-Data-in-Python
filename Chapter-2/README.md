@@ -15,4 +15,4 @@ In this jupyter notebook, I have explained how to compare different time series,
 * .resample() function
 * Interpolation
 
-# Part-4 ==> Downsampling and Aggregation methods
+### Part-4 ==> Downsampling and Aggregation methods
