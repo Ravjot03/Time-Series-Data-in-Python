@@ -23,5 +23,5 @@ And, how to do downsampling and grouping the data.
   * What is Downsampling ?
   * Grouping data
   
-### Dataset used ==> 
+### Dataset used : 
   * [shampoo.csv](https://github.com/Ravjot03/Time-Series-Data-in-Python/blob/main/Chapter-3/shampoo.csv)
