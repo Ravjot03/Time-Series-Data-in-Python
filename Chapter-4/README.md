@@ -20,7 +20,7 @@ In this juptyer notebook, I have explained What are Window functions ? Also, how
   - Calculating running min and max
   - Calculating annual rate of return
   - Datasets used:
-      * Google Stock Prices Data : [google.csv]()
+      * Google Stock Prices Data : [google.csv](https://github.com/Ravjot03/Time-Series-Data-in-Python/blob/main/Chapter-4/google.csv)
       * Google-Apple Stock Prices Data : [apple_google.csv](https://github.com/Ravjot03/Time-Series-Data-in-Python/blob/main/Chapter-4/apple_google.csv)
       
 ## Part-3 ==> S&P500 Case Simulation
