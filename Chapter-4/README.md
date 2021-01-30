@@ -29,7 +29,7 @@ In this juptyer notebook, I have explained What are Window functions ? Also, how
   - Creating a random price path
   - Generating S&P500 random returns
   - Datasets used:
-      * S&P500 Data : [sp500.csv]()
+      * S&P500 Data : [sp500.csv](https://github.com/Ravjot03/Time-Series-Data-in-Python/blob/main/Chapter-4/sp500.csv)
       
 ## Part-4 ==> Relationship b/w time series : Correlation
   - Annual return correlations
