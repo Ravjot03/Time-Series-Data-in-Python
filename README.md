@@ -18,3 +18,14 @@ In this chapter, I have explained how to create, manipulate and do calculations 
 
 ## 2. [CHAPTER-2](https://github.com/Ravjot03/Time-Series-Data-in-Python/tree/main/Chapter-2)
 In this chapter, I have explained how to compare different time series,also, what is resampling and its types.
+
+## 3. [CHAPTER-3](https://github.com/Ravjot03/Time-Series-Data-in-Python/tree/main/Chapter-3)
+In this chapter, I have explained how to resample and interpolate time series data using pandas in Python.
+
+How to do upsampling and use different interpolation techniques.
+
+And, how to do downsampling and grouping the data.
+
+## 4. [CHAPTER-4](https://github.com/Ravjot03/Time-Series-Data-in-Python/tree/main/Chapter-4)
+In this chapter, I have explained what are Window functions? Also, how to calculate time series metrics for both types of window functions - Rolling and Expanding functions.
+
